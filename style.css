@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgb(0, 0, 0);
   font-family: "Noto Serif SC", serif;
   color: white;
   margin: 0;
@@ -104,6 +104,7 @@ nav a:hover {
 
 .main img:hover {
   transform: scale(1.05);
+  box-shadow: ;
 }
 
 .gallery img:hover {
